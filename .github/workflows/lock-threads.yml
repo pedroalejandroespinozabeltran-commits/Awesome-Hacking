@@ -20,4 +20,4 @@ jobs:
       - uses: dessant/lock-threads@v5
         with:
           issue-inactive-days: '7'
-          pr-inactive-days: '7'
+          pr-inactive-days: '7'.
